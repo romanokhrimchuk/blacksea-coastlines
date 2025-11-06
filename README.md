@@ -20,13 +20,17 @@ As shown in Figure 1, this method integrates open-access satellite imagery, glob
 <img width="1600" height="700" alt="image" src="https://github.com/user-attachments/assets/7c8cb9e9-f0fe-4fbc-b7db-fc7920c73a28" />
 Figure 1. Subpixel coastline extraction workflow using ODC and tide modelling
 
+`Lexcube is used for 3D visualization of the data cubes shown in Figure 1. I highly recommend it to researchers and professionals working with multi-dimensional spatio-temporal data (Sochting et al., 2024)`
+
 The extraction of coastlines is based on a modified implementation of the methodologies developed for [Digital Earth Australia](https://knowledge.dea.ga.gov.au/) & [Digital Earth Africa](https://digitalearthafrica.org/en_za/) platforms.
 
-### References:
+### References
 
 Bishop-Taylor, R., Nanson, R., Sagar, S., & Lymburner, L. (2021). Mapping Australia’s dynamic coastline at mean sea level using three decades of Landsat imagery. Remote Sensing of Environment, 267(112734), 112734. https://doi.org/10.1016/j.rse.2021.112734.
 
 Egbert, G. D., & Erofeeva, S. Y. (2002). Efficient inverse modeling of barotropic ocean tides. Journal of Atmospheric and Oceanic Technology, 19(2), 183–204. https://doi.org/10.1175/1520-0426(2002)019%3C0183:EIMOBO%3E2.0.CO;2
+
+Sochting, M., Mahecha, M. D., Montero, D., & Scheuermann, G. (2024). Lexcube: Interactive visualization of large Earth system data cubes. IEEE Computer Graphics and Applications, 44(1), 25–37. https://doi.org/10.1109/MCG.2023.3321989
 
 Okhrimchuk, R., Demidov, V., & Sliusar, K. (2024). Innovative approaches to big Earth observation data processing in Earth science. In Proceedings of the International Conference of Young Professionals “GeoTerrace 2024” (pp. 1–5). https://doi.org/10.3997/2214-4609.2024510006.
 
