@@ -48,17 +48,17 @@ var lyr_Coastline_change_rates_2 = new ol.layer.Vector({
                 popuplayertitle: 'Coastline_change_rates',
                 interactive: true,
     title: 'Coastline_change_rates<br />\
-    <img src="styles/legend/Coastline_change_rates_2_0.png" /> -41 - -3<br />\
-    <img src="styles/legend/Coastline_change_rates_2_1.png" /> -3- -1<br />\
-    <img src="styles/legend/Coastline_change_rates_2_2.png" /> -1 - 0.5<br />\
-    <img src="styles/legend/Coastline_change_rates_2_3.png" /> -0.3 - 0.5<br />\
-    <img src="styles/legend/Coastline_change_rates_2_4.png" /> -0.1 - 0.3<br />\
-    <img src="styles/legend/Coastline_change_rates_2_5.png" /> -0.1 0.1<br />\
-    <img src="styles/legend/Coastline_change_rates_2_6.png" /> 0.1 - 0.3<br />\
-    <img src="styles/legend/Coastline_change_rates_2_7.png" /> 0.3 - 0.5<br />\
-    <img src="styles/legend/Coastline_change_rates_2_8.png" /> 0.5 - 1<br />\
-    <img src="styles/legend/Coastline_change_rates_2_9.png" /> 1 - 3<br />\
-    <img src="styles/legend/Coastline_change_rates_2_10.png" /> 3- 125<br />' });
+    <img src="styles/legend/Coastline_change_rates_2_0.png" /> -3.0 m <<br />\
+    <img src="styles/legend/Coastline_change_rates_2_1.png" /> 1.0 to -3.0 m<br />\
+    <img src="styles/legend/Coastline_change_rates_2_2.png" /> -0.5 to -1.0 m<br />\
+    <img src="styles/legend/Coastline_change_rates_2_3.png" /> -0.3 to -0.5 m<br />\
+    <img src="styles/legend/Coastline_change_rates_2_4.png" /> -0.0 to -0.3 m<br />\
+    <img src="styles/legend/Coastline_change_rates_2_5.png" /> no significant change or low certainty<br />\
+    <img src="styles/legend/Coastline_change_rates_2_6.png" /> 0.0 to 0.3 m<br />\
+    <img src="styles/legend/Coastline_change_rates_2_7.png" /> 0.3 to 0.5 m<br />\
+    <img src="styles/legend/Coastline_change_rates_2_8.png" /> 0.5 to 1.0 m<br />\
+    <img src="styles/legend/Coastline_change_rates_2_9.png" /> 1.0 to 3.0 m<br />\
+    <img src="styles/legend/Coastline_change_rates_2_10.png" /> 3.0 m ><br />' });
 
 lyr_GoogleSatelliteMap_0.setVisible(true);lyr_Black_Sea_coastline_2017_2024_1.setVisible(true);lyr_Coastline_change_rates_2.setVisible(true);
 var layersList = [lyr_GoogleSatelliteMap_0,lyr_Black_Sea_coastline_2017_2024_1,lyr_Coastline_change_rates_2];
